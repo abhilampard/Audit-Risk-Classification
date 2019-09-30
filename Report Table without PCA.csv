@@ -1,0 +1,8 @@
+Model Name,Model Name,Model Parameter,Training Score,Testing Score
+KNN Regressor,KNN Regressor,n_neighbors = 3,0.8131837439024987,0.1851121674136451
+Linear Regression,Linear Regression,Simple,0.7788478089555041,0.5020258807199098
+Polynomial Regression,Polynomial Regression,Degree = 3,0.9999980461393275,0
+Ridge Regression,Ridge Regression,alpha = 1,0.7557431630502383,0.4564436797293099
+Lasso Regression,Lasso Regression,"alpha = 0.1, max_iter = 500",0.7782123966301369,0.4962141575474517
+SVR Regression,SVR Regression,"C = 1, epsilon = 0.1, gamma = 10, kernel = poly",0.9995967683905008,0
+SGD Regression,SGD Regression,"alpha = 1e-06, learning_rate = optimal, loss = huber, penalty = l2",0.6198978393136197,0.39676358416097357

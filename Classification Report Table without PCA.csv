@@ -1,0 +1,5 @@
+Model Name,Model Name,Model Parameter,Training Score,Testing Score
+KNN Classifier,KNN Classifier,n_neighbors = 7,0.9771929824561404,0.9526315789473684
+SVC with PCA,SVC with PCA,"C =100, kernel= linear",0.987719298245614,0.9631578947368421
+Logistic Regression,Logistic Regression,penalty = l1,0.9631578947368421,0.9578947368421052
+Decision Tree Classifier,Decision Tree Classifier,max_depth: 9,1.0,0.9894736842105263
